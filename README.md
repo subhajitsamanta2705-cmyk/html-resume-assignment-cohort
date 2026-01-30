@@ -20,6 +20,7 @@ This project is a simple **HTML resume** created using **semantic HTML5**.
 
 ### HTML Concepts Demonstrated
 
+
 - Semantic elements (`header`, `main`, `section`, `article`, `footer`)
 - Headings (`h1`, `h2`)
 - Lists (`ul`, `li`)
@@ -28,3 +29,4 @@ This project is a simple **HTML resume** created using **semantic HTML5**.
 - Proper document structure and readability
 
 ### Output
+<img width="1170" height="3768" alt="127 0 0 1_3000_index html(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/6c2308f9-9d63-4a28-9dd8-126fe1e45e2a" />
